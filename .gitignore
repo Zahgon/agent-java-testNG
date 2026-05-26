@@ -20,3 +20,8 @@ build/
 out/
 test-output/
 bin/
+
+.aider*
+logs/
+.commit0_scripts/
+.github/workflows/
